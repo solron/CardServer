@@ -46,6 +46,12 @@ You shuffle the deck by sending the shuffle command with the ID as argument.
 
 The CardServer uses UDP to communicate with card clients. Every command available returns a response. So you are sure the packets have arived.<br>
 
+## Demo
+
+https://www.youtube.com/watch?v=PYqvcxhroXQ
+
+[![Demo Video](https://img.youtube.com/vi/PYqvcxhroXQ/0.jpg)](https://www.youtube.com/watch?v=PYqvcxhroXQ)
+
 ## Bugs
 
 No known bugs at the moment
